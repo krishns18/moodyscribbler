@@ -1,0 +1,657 @@
+{
+  "settings": {
+    "currentPage": "moodyscribbler.html",
+    "name": "Moody Scribbler",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f7da64",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 34,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/new-logo-128x72.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "moodyscribbler.html": {
+      "settings": {
+        "main": true,
+        "title": "Moody Scribbler",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "72px",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "13px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1324.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"moodyscribbler.html#header1-t\" data-toolbar=\"-mbrBtnMove\">About Us</a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"moodyscribbler.html#form1-s\" data-toolbar=\"-mbrBtnMove\">Contact Us</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"moodyscribbler.html#features6-a\" data-toolbar=\"-mbrBtnMove\">Our Services</a>  ",
+          "title": "MOODY SCRIBBLER",
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "60px",
+              "color": "#f6e404",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#efefef",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "4",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/11-2000x1044.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#000000",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "CONTENT<br>THAT SPEAKS<br>FOR ITSELF.",
+                "showText": true,
+                "text": "A good content isn't about good story<br>telling. It's about telling a true story well.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#000000",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "CONTENT BUILDS RELATIONSHIPS.",
+                "showText": true,
+                "text": "We focus on delivering amazing experiences to our customers through our content. That's why we have happy clients!",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "CONTENT IS ANYTHING THAT ADDS VALUE TO <br>THE READER'S LIFE.",
+                "showText": true,
+                "text": "Nothing great was achieved without 'Good Content'.<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-9",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "H4": {
+              "text-align": "center",
+              "color": "#232323"
+            }
+          },
+          "_anchor": "features6-a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title1": "ARTICLE",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "We provide you high quality articles at low price. Our content are 100% original &amp; copyscape proof. We also specialize in SEO articles.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "SOCIAL MEDIA",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "We help you in managing your various Social Media platforms like Facebook, Twitter, Instagram, LinkedIn and etc. We provide creative and insightfuls posts for customers engagement.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "quote",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "BLOG",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "We provide end to end blog writing and management services which includes free SEO alignment with trending keywords and meta tags.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "magnifying-glass",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "SEO",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "We have custom designed SEO packages which includes features like 100% unique &amp; original SEO aligned articles.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "clipboard",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title5": "WHITEPAPERS",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "We provide highly researched 100% original content by industry expert writers. ",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "lifesaver",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title6": "CONTENT MARKETING",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "We help your business grow by providing engaging &amp; customer loyalty oriented content with complete social media outreach solution.&nbsp;",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#f3c649"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-price-figure": {
+              "font-size": "46px"
+            },
+            ".mbr-price-term": {
+              "font-size": "18px"
+            },
+            "UL": {
+              "font-size": "12px"
+            },
+            ".mbr-section__container .mbr-section-subtitle B": {
+              "color": "#f7da64"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": false,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "PRICING",
+          "subtitle": "Our Content Writing pricing starts as low as $1.5 per 100 words. Our Social Media Management &amp; Content Marketing starts from $40 per month based on the customer business needs. To know more <b>CONTACT US</b>.",
+          "label1": "HOT!",
+          "title1": "ARTICLE",
+          "subtitle1": "",
+          "currency1": "$",
+          "price1": "1.5",
+          "period1": "/100 words",
+          "description1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">100 % Unique content&nbsp;</li><li class=\"list-group-item\">SEO friendly content</li><li class=\"list-group-item\">Professional writers</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label2": "HOT!",
+          "title2": "BLOG",
+          "subtitle2": "",
+          "currency2": "$",
+          "price2": "2.0",
+          "period2": "/100 words",
+          "description2": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Professional blog writers</li><li class=\"list-group-item\">100% Unique content</li><span style=\"font-size: 14px; line-height: 50px;\">End to end blog management</span></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label3": "HOT!",
+          "title3": "SOCIAL MEDIA",
+          "subtitle3": "",
+          "currency3": "$",
+          "price3": "40",
+          "period3": "/mo.",
+          "description3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Facebook, Twitter etc.</li><li class=\"list-group-item\">A to Z &nbsp;SM Management&nbsp;</li><li class=\"list-group-item\">Experienced Professional</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label4": "HOT!",
+          "title4": "WHITEPAPERS",
+          "subtitle4": "",
+          "currency4": "$",
+          "price4": "30",
+          "period4": "/page",
+          "description4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Full researched content</li><li class=\"list-group-item\">Domain Expert Writers</li><li class=\"list-group-item\">100% Original content</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#540b0a"
+            },
+            "H2": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "msg-box1-d",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"moodyscribbler.html#form1-s\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
+          "text": "We are happy to answer your query and provide you with budget friendly and premium content management services. Feel free to write to us at moodyscribbler@gmail.com or you can simply reach to us through <a href=\"moodyscribbler.html#form1-s\" class=\"text-success\">CONTACT US</a>.",
+          "title": "ASK YOUR QUERY"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials3",
+          "testimonial": [
+            {
+              "text": "It was a pleasure working with 'Moody Scribblers' on content development for our website. The team was very prompt and responsive and worked as a true business partner. They quickly came up to speed on our vision, the market and competitive landscape and delivered high quality work. We plan to work with 'Moody Scribblers' on content projects in future too.",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Chamoile Ross, USA",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>Moody Scribbler is one of my favorite source for getting great articles written in a timely and professional manner. They ensure that all are needs are fulfilled and meets our expectations.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Thomas A. Rockward, Australia",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>I couldn't be happier with my revised website content and SEO.</p><p>The entire team was brilliant and took the time to understand my content &amp; SEO needs in the context of my business, in addition to providing seasoned advice.</p><p>I appreciated the timeliness of their service, professional ethic and the confidence that came with their SEO knowledge and ability to write engaging content.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Manpreet Dhillon, India",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials3-f",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "count": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "WHAT OUR CLIENTS HAVE TO SAY !",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#b8312f",
+              "font-size": "60px"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-t",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "ABOUT MOODY SCRIBBLER",
+          "text": "Moody Scribbler is a group of professional &amp; experienced writers with more than four years of experience in the world of content writing. We specialize in providing high-quality content for all major industries. Whatever your needs are, we can help! <br>Our motto is 'Customer Satisfaction' through our dedicated and reliable services at affordable rates. We provide custom based services based on your needs and affordability. We have been rated high by our clients on service quality &amp; timeliness.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"moodyscribbler.html#features6-a\" data-toolbar=\"-mbrBtnMove\">OUR SERVICES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"moodyscribbler.html#form1-s\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-s",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT US",
+          "subtitle": "We are happy to answer your query and provide you with budget friendly and premium content management services. <br>Feel free to write to us at moodyscribbler@gmail.com or you can simply reach to us through the form below.",
+          "form": {
+            "action": "moodyscribbler@gmail.com",
+            "alerts": {
+              "success": "Thank you for your interest. Our team will get back to you shortly with the best that we can offer."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "sites",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "",
+          "text2": "<strong>Contacts</strong><br>\nEmail: moodyscribbler@gmail.com<br>\nPhone: +91-9891466428 (India)<br><br>",
+          "text3": "<strong>Links</strong><br><a href=\"moodyscribbler.html#header1-t\">About Us</a><br><a href=\"moodyscribbler.html#features6-a\">Our Services</a><br><a href=\"moodyscribbler.html#form1-s\">Contact Us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-x",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Moody Scribbler"
+        }
+      ]
+    }
+  }
+}
